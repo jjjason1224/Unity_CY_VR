@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.vr.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "D:\\unity CY VR\\Unity_CY_VR\\VR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\cyut\\Unity_CY_VR\\VR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "VR [Testing]"
